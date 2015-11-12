@@ -1,0 +1,23 @@
+{
+  "facebook": {
+    "client_id": "",
+    "client_secret": "",
+    "redirect_url": "http://localhost:8080/facebook_callback",
+    "token": ""
+  },
+  "google": {
+    "client_id": "",
+    "client_secret": "",
+    "redirect_url": "http://localhost:8080/google_callback"
+  },
+  "linkedin": {
+    "client_id": "",
+    "client_secret": "",
+    "redirect_url": "http://localhost:8080/linkedin_callback"
+  },
+  "vk": {
+    "client_id": "",
+    "client_secret": "",
+    "redirect_url": "http://localhost:8080/vk_callback"
+  }
+}
